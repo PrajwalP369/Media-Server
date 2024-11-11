@@ -1,0 +1,50 @@
+{
+  "allVideos": [
+    {
+      "id": "12",
+      "caption": "hello",
+      "url": "https://m.media-amazon.com/images/M/MV5BOTdiZjI3OGYtZTk1YS00Mjk5LTlmYzktODQ4NDQyM2JjNmI3XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+      "link": "https://www.youtube.com/embed/IfzZYija-wM"
+    }
+  ],
+  "history": [
+    {
+      "caption": "arm",
+      "link": "https://www.youtube.com/embed/M-yqIcuVNe8",
+      "timeStamp": "11/05/2024, 11:38:38 AM",
+      "id": 1
+    },
+    {
+      "caption": "hello",
+      "link": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "timeStamp": "11/08/2024, 12:35:02 PM",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "trailer",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "arm",
+          "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Ajayante_Randam_Moshanam.jpg/220px-Ajayante_Randam_Moshanam.jpg",
+          "link": "https://www.youtube.com/embed/M-yqIcuVNe8"
+        },
+        {
+          "id": "2",
+          "caption": "arm",
+          "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Ajayante_Randam_Moshanam.jpg/220px-Ajayante_Randam_Moshanam.jpg",
+          "link": "https://www.youtube.com/embed/M-yqIcuVNe8"
+        },
+        {
+          "id": "4",
+          "caption": "Aavesham",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjJjY2IxMDYtN2U0My00MzFiLWJlYzItYmJkMDg1MTg3MjhmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "link": "https://www.youtube.com/embed/HkvVaj_28C8"
+        }
+      ]
+    }
+  ]
+}
